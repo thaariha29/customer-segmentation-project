@@ -8,12 +8,12 @@ A complete ML project applying K-Means clustering to segment mall customers base
 ├── customer_segmentation.ipynb   # Main notebook
 ├── requirements.txt              # Python dependencies
 ├── README.md                     # This file
-└── Mall_Customers.csv            # Dataset (download from Kaggle — link below)
+└── Sales_data.csv            # Dataset (download from Kaggle — link below)
 ```
 
 ## Dataset
 
-**Mall Customer Segmentation Data**  
+**sales Customer Segmentation Data**  
 🔗 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 Features used:
